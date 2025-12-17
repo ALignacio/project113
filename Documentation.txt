@@ -1,2 +1,6 @@
 Download phishing data set:https://www.kaggle.com/datasets/eswarchandt/phishing-website-detector?resource=download
 install tools : pip install pandas numpy scikit-learn seaborn matplotlib
+python -m pip install --upgrade pip
+pip install numpy pandas seaborn matplotlib scikit-learn
+
+before running the python main.py type= .\.venv\Scripts\Activate.ps1 then run python main.py
