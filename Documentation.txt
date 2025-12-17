@@ -1,0 +1,2 @@
+Download phishing data set:https://www.kaggle.com/datasets/eswarchandt/phishing-website-detector?resource=download
+install tools : pip install pandas numpy scikit-learn seaborn matplotlib
